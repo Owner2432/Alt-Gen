@@ -31,4 +31,4 @@ async def gen(ctx):
 
         print("{} Typed !alt3".format(userName))
         
-bot.run("NDc0NjEwMDQ2NjUxODU4OTU0.DkS-pg.IyS5YWGhfkZq0BTv_jxU6EuiICc")#bots token!
+bot.run("NDgzMjgxMzI2ODEyOTU0NjI0.DmRKdg.8KGFittjXLWK9HsYczskM_xM0dM")#bots token!
